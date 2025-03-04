@@ -42,3 +42,7 @@ THE APPLICATION DEMONSTRATES THE FUNDAMENTAL PRINCIPLES OF REAL-TIME WEB APPLICA
 EXPERIENCES.
 
 ***OUTPUT***
+
+![Image](https://github.com/user-attachments/assets/fa37f2f8-dc38-424b-9fde-8adf8df2e00c)
+
+![Image](https://github.com/user-attachments/assets/7cb7adb4-717c-4552-8e73-4aac05e1380a)
